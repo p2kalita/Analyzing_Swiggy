@@ -1,3 +1,13 @@
+![Analyzing_Swiggy](https://socialify.git.ci/p2kalita/Analyzing_Swiggy/image?font=Inter&language=1&name=1&owner=1&stargazers=1&theme=Light)
+
+
+
+
+
+
+
+
+
 # Analyzing_Swiggy_Bangalore_Delivery
 This project aims to analyze Swiggy's food delivery operations in Bangalore, India using data from a public dataset. The code is written in Python and uses various data analysis and visualization libraries to perform the analysis.
 
