@@ -1,4 +1,4 @@
-![Analyzing_Swiggy](https://socialify.git.ci/p2kalita/Analyzing_Swiggy/image?font=Inter&language=1&name=1&owner=1&stargazers=1&theme=Light)
+![Analyzing_Swiggy](https://socialify.git.ci/p2kalita/Analyzing_Swiggy/image?font=Inter&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light)
 
 
 
